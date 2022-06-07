@@ -1,0 +1,12 @@
+.heading {
+  color: aqua;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  display: block;
+}
